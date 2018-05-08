@@ -1,0 +1,10 @@
+[Desktop Entry]
+Encoding=UTF-8
+Name=Redwind Wallet
+Comment=Redwind wallet
+Exec=redwind %U
+Terminal=false
+Type=Application
+Icon=redwind
+MimeType=x-scheme-handler/redwind;
+Categories=Office;Finance;

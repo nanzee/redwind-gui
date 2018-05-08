@@ -1,0 +1,4 @@
+set(CN_PROJECT_NAME "Redwind")
+set(CN_CURRENCY_DISPLAY_NAME "Redwind")
+set(CN_CURRENCY_TICKER "RD")
+set(CN_VERSION 1.0.0)
